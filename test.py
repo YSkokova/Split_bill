@@ -41,20 +41,10 @@ if user_input > 0:
         print("No one is going to be lucky")
         print(friends)
         #  Round the split value to two decimal places;
-        #  Print the updated dictionary values;
-        #  If there are no people to split the bill (the number of friends is 0 or/
-        #  an invalid input), output "No one is joining for the party";
+
     else:
         print("Invalid input")
 
-        # If there are no people to split the bill (the number of friends is 0 or/
-        #  an invalid input), output "No one is joining for the party";
-    # Update the dictionary with the split values;
-    # Print the updated dictionary
-    #  In case of an invalid number of people (zero or negative), "No one is joining for the party"/
-    #  is expected as an output;
-    #  If there are no people to split the bill (the number of friends is 0 or an invalid input),/
-    #  output "No one is joining for the party";
 else:
 
     print("No one is joining for the party")
